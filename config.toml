@@ -11,7 +11,7 @@ publishDir="docs"
 paginate=5
 
 [params]
-    mode="light"
+    mode="auto"
     useCDN=false
     subtitle="Writing useful things in my Programming Journey"
     
