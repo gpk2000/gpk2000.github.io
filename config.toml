@@ -6,6 +6,7 @@ copyright="©️ gpk2000"
 pygmentsstyle="monokai"
 pygmentcodefences=true
 pygmentscodefencesguesssyntax=true
+publishDir="docs"
 
 paginate=5
 
