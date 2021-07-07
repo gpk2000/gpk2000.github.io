@@ -1,0 +1,41 @@
+baseURL = "https://gpk2000.github.io/"
+languageCode = "en-us"
+title = "Pavan's Website"
+theme="archie"
+copyright="©️ gpk2000"
+pygmentsstyle="monokai"
+pygmentcodefences=true
+pygmentscodefencesguesssyntax=true
+
+paginate=5
+
+[params]
+    mode="light"
+    useCDN=false
+    subtitle="Writing useful things in my Programming Journey"
+    
+[[params.social]]
+name="GitHub"
+icon="github"
+url="https://github.com/gpk2000"
+
+[[menu.main]]
+name="/home"
+url="/"
+weight=1
+
+[[menu.main]]
+name="/posts"
+url="/posts"
+weight=2
+
+[[menu.main]]
+name="/about"
+url="/about"
+weight=3
+
+[[menu.main]]
+name="/tags"
+url="/tags"
+weight=4
+

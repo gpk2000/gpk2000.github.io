@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Pavan&#39;s Website</title>
+    <link>https://gpk2000.github.io/tags/python/</link>
+    <description>Recent content in python on Pavan&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©️ gpk2000</copyright>
+    <lastBuildDate>Sun, 04 Jul 2021 10:39:44 +0530</lastBuildDate>
+    
+	<atom:link href="https://gpk2000.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beautiful Math in SICP Part-1</title>
+      <link>https://gpk2000.github.io/posts/math/sicp-1/</link>
+      <pubDate>Sun, 04 Jul 2021 10:39:44 +0530</pubDate>
+      
+      <guid>https://gpk2000.github.io/posts/math/sicp-1/</guid>
+      <description>Square roots by Newton&#39;s Method \[\sqrt x = \text{the } y \text{ such that } y \geq 0 \text{ and } y^2 = x\]
+The above definition is a valid way of defining square-root. But how do we tell the computer to calculate it? We Use Newton&#39;s method of successive approximations. The algorithm is as follows:-
+ We start by guessing the \(\sqrt x\) is \(y\). Now we check how close the square of the \(y\) is to \(x\).</description>
+    </item>
+    
+  </channel>
+</rss>
